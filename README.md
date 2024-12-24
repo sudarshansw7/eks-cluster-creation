@@ -10,7 +10,9 @@ Step:1
 --> clone the repository from my github
 
 --> Then change execute permisiions for the file
+   
    $ chmod +x eks-cluster-creation
 
 ---> Then run the shell script as 
+     
      sh  eks-cluster-creation
