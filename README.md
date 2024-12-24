@@ -17,4 +17,4 @@ Step:1
 
 ---> Then run the shell script as 
      
-     sh  eks-cluster-creation
+     sh  eks-cluster-creation.sh
